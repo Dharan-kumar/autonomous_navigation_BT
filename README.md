@@ -1,2 +1,2 @@
 # autonomous_navigation_BT
-Autonomous Navigation using BehaviorTree
+Turtlebot3 Autonomous Navigation using BehaviorTreeCPP in ROS2
